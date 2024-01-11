@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"pycounts"
+project = u"pycounts_ajz"
 copyright = u"2023, Andy Zhang"
 author = u"Andy Zhang"
 
