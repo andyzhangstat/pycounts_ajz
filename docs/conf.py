@@ -7,7 +7,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u"pycounts_ajz"
-copyright = u"2023, Andy Zhang"
+copyright = u"2024, Andy Zhang"
 author = u"Andy Zhang"
 
 # -- General configuration ---------------------------------------------------
