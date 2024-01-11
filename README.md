@@ -14,8 +14,8 @@ $ pip install pycounts_ajz
 as follows:
 
 ```python
-from pycounts.pycounts import count_words
-from pycounts.plotting import plot_words
+from pycounts_ajz.pycounts import count_words
+from pycounts_ajz.plotting import plot_words
 import matplotlib.pyplot as plt
 
 file_path = "test.txt"  # path to your file
