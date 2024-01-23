@@ -1,4 +1,6 @@
-# pycounts
+# pycounts_ajz
+
+[![Documentation Status](https://readthedocs.org/projects/pycounts-ajz/badge/?version=latest)](https://pycounts-ajz.readthedocs.io/en/latest/?badge=latest)
 
 Calculate word counts in a text file!
 
