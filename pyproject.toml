@@ -18,6 +18,18 @@ pytest = "^7.4.4"
 pytest-cov = "^4.1.0"
 jupyter = "^1.0.0"
 myst-nb = {version = "^1.0.0", python = "^3.9"}
+
+
+
+[tool.semantic_release]
+version_toml = [
+    "pyproject.toml:tool.poetry.version",
+]                                                    # version location
+branch = "main"                                      # branch to make releases of
+changelog_file = "CHANGELOG.md"                      # changelog file
+build_command = "pip install poetry && poetry build" # build dists
+
+
 sphinx-autoapi = "^3.0.0"
 sphinx-rtd-theme = "^2.0.0"
 
