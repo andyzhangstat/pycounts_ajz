@@ -4,6 +4,11 @@
 
 Calculate word counts in a text file!
 
+
+## Author
+Andy Zhang
+
+
 ## Installation
 
 ```bash
